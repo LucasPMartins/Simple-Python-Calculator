@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc121c&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc121c&size=45&center=true&vCenter=true&width=1000&lines=Python+Calculator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc121c&size=45&center=true&vCenter=true&width=1000&lines=Simple+Python+Calculator)](https://git.io/typing-svg)
 
 ## ❔ About
 
-This repository contains a Python-based calculator application built using the PySide6 library for the graphical user interface. The application features a grid of buttons for input, a display for showing the current input and results, and an info label for additional information.
+This repository contains a Simple Python-based calculator application built using the PySide6 library for the graphical user interface. The application features a grid of buttons for input, a display for showing the current input and results, and an info label for additional information.
 
 ### Features
 
