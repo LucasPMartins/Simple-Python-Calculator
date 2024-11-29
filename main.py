@@ -19,12 +19,7 @@ if __name__ == '__main__':
     icon = QIcon(str(WINDOW_LOGO_PATH))
     window.setWindowIcon(icon)
     app.setWindowIcon(icon)
-    # Faz o ícone aparecer na barra de tarefas do Win 11
-    if sys.platform.startswith('win'):
-        import ctypes
-        ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(
-            u'CompanyName.ProductName.SubProduct.VersionInformation')
-
+    
     # Info: Label que mostra a equação
     info = Info('')
     # Adiciona o info ao layout vertical
