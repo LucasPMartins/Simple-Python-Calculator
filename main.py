@@ -25,16 +25,19 @@ if __name__ == '__main__':
         ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(
             u'CompanyName.ProductName.SubProduct.VersionInformation')
 
-    # Info
+    # Info: Label que mostra a equação
     info = Info('')
+    # Adiciona o info ao layout vertical
     window.addWidgetToVLayout(info)
 
-    # Display
+    # Display: QLineEdit que mostra o resultado
     display = Display()
+    # Adiciona o display ao layout vertical
     window.addWidgetToVLayout(display)
 
-    # GRID
+    # GRID: Grid de botões
     buttonsGrid = ButtonsGrid(display,info,window)
+    # Adiciona o grid ao layout vertical
     window.vLayout.addLayout(buttonsGrid)
 
     # Executa tudo
