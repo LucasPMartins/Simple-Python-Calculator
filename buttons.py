@@ -76,7 +76,7 @@ class ButtonsGrid(QGridLayout):
         text = button.text()
         if text == '⌫':
             self._connectButtonClicked(
-                button, self.display.backspace)
+                button, self._backspace)
         if text == 'N':
             self._connectButtonClicked(button,self._invertNumber)
         if text == 'C':

@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc121c&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e81b0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc121c&size=45&center=true&vCenter=true&width=1000&lines=Simple+Python+Calculator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=1e81b0&size=45&center=true&vCenter=true&width=1000&lines=Simple+Python+Calculator)](https://git.io/typing-svg)
 
 ## ❔ About
 
@@ -62,8 +62,20 @@ This repository contains a Simple Python-based calculator application built usin
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0a58ee)&nbsp;
+![PySide6](https://img.shields.io/badge/PySide6-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52)&nbsp;
 
 ## 👨‍💻 Programming Language
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bc121c&height=120&section=footer"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2118dd70-3388-49c3-9737-92d305596617" alt="Imagem Maior 1" width="500" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/351d5231-4bc5-4ee5-b0df-b8cf70ead461" alt="Imagem Maior 2" width="500" />
+    </td>
+  </tr>
+</table>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e81b0&height=120&section=footer"/>
