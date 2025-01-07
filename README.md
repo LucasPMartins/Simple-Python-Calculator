@@ -6,6 +6,17 @@
 
 This repository contains a Simple Python-based calculator application built using the PySide6 library for the graphical user interface. The application features a grid of buttons for input, a display for showing the current input and results, and an info label for additional information.
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/2118dd70-3388-49c3-9737-92d305596617" alt="Imagem Maior 1" width="500" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/351d5231-4bc5-4ee5-b0df-b8cf70ead461" alt="Imagem Maior 2" width="500" />
+    </td>
+  </tr>
+</table>
+
 ### Features
 
 - **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, division, and exponentiation.
@@ -66,16 +77,5 @@ This repository contains a Simple Python-based calculator application built usin
 
 ## 👨‍💻 Programming Language
 ![Python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/2118dd70-3388-49c3-9737-92d305596617" alt="Imagem Maior 1" width="500" />
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/351d5231-4bc5-4ee5-b0df-b8cf70ead461" alt="Imagem Maior 2" width="500" />
-    </td>
-  </tr>
-</table>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e81b0&height=120&section=footer"/>
